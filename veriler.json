@@ -1,0 +1,355 @@
+[
+    {
+        "plaka": "34 ABC 001",
+        "marka": "Fiat Egea",
+        "ucret": "1500",
+        "durum": "kirada",
+        "toplam_ucret": 84000,
+        "kiralayan": "Berke Emin Girit",
+        "baslangic": "22.12.2025",
+        "bitis": "27.12.2025",
+        "gun": 5
+    },
+    {
+        "plaka": "06 RENT 123",
+        "marka": "Renault Megane",
+        "ucret": "2200",
+        "durum": "kirada",
+        "toplam_ucret": 6600,
+        "kiralayan": "Mert Yılmaz",
+        "baslangic": "22.12.2025",
+        "bitis": "25.12.2025",
+        "gun": 3
+    },
+    {
+        "plaka": "35 GZ 999",
+        "marka": "Volkswagen Passat",
+        "ucret": "3500",
+        "durum": "kirada",
+        "toplam_ucret": 21000,
+        "kiralayan": "Salih Eymen",
+        "baslangic": "22.12.2025",
+        "bitis": "28.12.2025",
+        "gun": 6
+    },
+    {
+        "plaka": "34 BMW 520",
+        "marka": "BMW 5 Serisi",
+        "ucret": "7500",
+        "durum": "kirada",
+        "toplam_ucret": 37500,
+        "kiralayan": "Serra ",
+        "baslangic": "22.12.2025",
+        "bitis": "24.12.2025",
+        "gun": 2
+    },
+    {
+        "plaka": "07 ANT 07",
+        "marka": "Mercedes C200",
+        "ucret": "8000",
+        "durum": "kirada",
+        "toplam_ucret": 128000,
+        "kiralayan": "Kazım Yıldız",
+        "baslangic": "22.12.2025",
+        "bitis": "07.01.2026",
+        "gun": 16
+    },
+    {
+        "plaka": "34 VIP 100",
+        "marka": "Range Rover Vogue",
+        "ucret": "15000",
+        "durum": "müsait",
+        "toplam_ucret": 45000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "16 Bursa 16",
+        "marka": "Toyota Corolla",
+        "ucret": "1800",
+        "durum": "müsait",
+        "toplam_ucret": 5400,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 LUX 77",
+        "marka": "Porsche Taycan",
+        "ucret": "25000",
+        "durum": "kirada",
+        "toplam_ucret": 200000,
+        "kiralayan": "Serra Tanış",
+        "baslangic": "22.12.2025",
+        "bitis": "30.12.2025",
+        "gun": 8
+    },
+    {
+        "plaka": "06 TES 2024",
+        "marka": "Tesla Model Y",
+        "ucret": "5500",
+        "durum": "müsait",
+        "toplam_ucret": 11000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 ECO 44",
+        "marka": "Dacia Duster",
+        "ucret": "1600",
+        "durum": "müsait",
+        "toplam_ucret": 3200,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 AUD 004",
+        "marka": "Audi A6",
+        "ucret": "9000",
+        "durum": "kirada",
+        "toplam_ucret": 27000,
+        "kiralayan": "Murat Şahin",
+        "baslangic": "22.12.2025",
+        "bitis": "25.12.2025",
+        "gun": 3
+    },
+    {
+        "plaka": "34 TRB 1903",
+        "marka": "Besiktas Edition Mercedes G63",
+        "ucret": "35000",
+        "durum": "kirada",
+        "toplam_ucret": 115000,
+        "kiralayan": "serra",
+        "baslangic": "25.12.2025",
+        "bitis": "27.12.2025",
+        "gun": 3
+    },
+    {
+        "plaka": "06 ANK 006",
+        "marka": "Audi A8 L",
+        "ucret": "12000",
+        "durum": "kirada",
+        "toplam_ucret": 84000,
+        "kiralayan": "Fatih Terim",
+        "baslangic": "22.12.2025",
+        "bitis": "26.12.2025",
+        "gun": 4
+    },
+    {
+        "plaka": "34 GS 1905",
+        "marka": "Ferrari F8 Tributo",
+        "ucret": "50000",
+        "durum": "müsait",
+        "toplam_ucret": 100000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "35 BJK 1903",
+        "marka": "BMW M4 Competition",
+        "ucret": "9500",
+        "durum": "müsait",
+        "toplam_ucret": 28500,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "07 ANT 007",
+        "marka": "Aston Martin DB11",
+        "ucret": "20000",
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 FB 1907",
+        "marka": "Lamborghini Huracan",
+        "ucret": "45000",
+        "durum": "müsait",
+        "toplam_ucret": 90000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "16 BUR 016",
+        "marka": "Volvo XC90",
+        "ucret": "6000",
+        "durum": "müsait",
+        "toplam_ucret": 12000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 SUV 55",
+        "marka": "Jeep Wrangler",
+        "ucret": "5500",
+        "durum": "müsait",
+        "toplam_ucret": 11000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "06 VIP 99",
+        "marka": "Mercedes S400d",
+        "ucret": "14000",
+        "durum": "müsait",
+        "toplam_ucret": 70000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 ECO 10",
+        "marka": "Hyundai i20",
+        "ucret": "1200",
+        "durum": "müsait",
+        "toplam_ucret": 3600,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "35 IZM 35",
+        "marka": "Toyota RAV4 Hybrid",
+        "ucret": "3800",
+        "durum": "müsait",
+        "toplam_ucret": 26600,
+        "kiralayan": "",
+        "gecmis": [
+            {
+                "musteri": "Zeynep Yaren",
+                "baslangic": "30.12.2025",
+                "bitis": "04.01.2026",
+                "iade": "24.12.2025"
+            }
+        ]
+    },
+    {
+        "plaka": "34 EV 2025",
+        "marka": "Tesla Model S Plaid",
+        "ucret": "11000",
+        "durum": "müsait",
+        "toplam_ucret": 33000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "06 BYP 42",
+        "marka": "Volkswagen Tiguan",
+        "ucret": "2800",
+        "durum": "müsait",
+        "toplam_ucret": 39200.0,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 LUX 01",
+        "marka": "Bentley Continental GT",
+        "ucret": "30000",
+        "durum": "müsait",
+        "toplam_ucret": 60000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "07 TUR 07",
+        "marka": "Skoda Superb",
+        "ucret": "2400",
+        "durum": "müsait",
+        "toplam_ucret": 4800,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 FAM 02",
+        "marka": "Honda Civic",
+        "ucret": "1700",
+        "durum": "müsait",
+        "toplam_ucret": 3400,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "34 PRM 88",
+        "marka": "Land Rover Defender",
+        "ucret": "9000",
+        "durum": "müsait",
+        "toplam_ucret": 27000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "06 GEN 06",
+        "marka": "Ford Focus",
+        "ucret": "1500",
+        "durum": "kirada",
+        "toplam_ucret": 7500,
+        "kiralayan": "Serra Tanış",
+        "baslangic": "24.12.2025",
+        "bitis": "26.12.2025",
+        "gun": 3
+    },
+    {
+        "plaka": "34 FAST 99",
+        "marka": "Nissan GT-R R35",
+        "ucret": "18000",
+        "durum": "müsait",
+        "toplam_ucret": 36000,
+        "kiralayan": ""
+    },
+    {
+        "plaka": "35 EGE 35",
+        "marka": "Peugeot 408",
+        "ucret": "2600",
+        "durum": "kirada",
+        "toplam_ucret": 28600,
+        "kiralayan": "zeynep",
+        "gecmis": [
+            {
+                "musteri": "",
+                "baslangic": "",
+                "bitis": "",
+                "iade": "25.12.2025"
+            }
+        ],
+        "baslangic": "25.12.2025",
+        "bitis": "28.12.2025",
+        "gun": 4
+    },
+    {
+        "plaka": "54ST5455",
+        "marka": "BMW 5 Serisi",
+        "ucret": "5000",
+        "durum": "müsait",
+        "toplam_ucret": 80000,
+        "kiralayan": "",
+        "gecmis": [
+            {
+                "musteri": "Serra Tanış",
+                "baslangic": "25.12.2025",
+                "bitis": "28.12.2025",
+                "iade": "24.12.2025"
+            },
+            {
+                "musteri": "serra",
+                "baslangic": "24.12.2025",
+                "bitis": "26.12.2025",
+                "iade": "24.12.2025"
+            },
+            {
+                "musteri": "zeynep",
+                "baslangic": "24.12.2025",
+                "bitis": "24.12.2025",
+                "iade": "24.12.2025"
+            },
+            {
+                "musteri": "nadide",
+                "baslangic": "24.12.2025",
+                "bitis": "28.12.2025",
+                "iade": "24.12.2025"
+            },
+            {
+                "musteri": "Serra Tanş",
+                "baslangic": "24.12.2025",
+                "bitis": "27.12.2025",
+                "iade": "25.12.2025"
+            }
+        ]
+    },
+    {
+        "plaka": "54ABC545454",
+        "marka": "bmw",
+        "ucret": "10000",
+        "durum": "müsait",
+        "toplam_ucret": 30000,
+        "kiralayan": "",
+        "gecmis": [
+            {
+                "musteri": "Salih Eymen ",
+                "baslangic": "24.12.2025",
+                "bitis": "26.12.2025",
+                "iade": "25.12.2025"
+            }
+        ]
+    }
+]
