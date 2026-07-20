@@ -1,0 +1,10 @@
+{
+    "admin": {
+        "sifre": "1234",
+        "rol": "admin"
+    },
+    "serratanis": {
+        "sifre": "1234567",
+        "rol": "user"
+    }
+}

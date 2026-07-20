@@ -1,0 +1,197 @@
+[
+    {
+        "plaka": "34 ABC 01",
+        "marka": "Renault Clio",
+        "ucret": 1200,
+        "durum": "kirada",
+        "toplam_ucret": 7200,
+        "kiralayan": "Serra",
+        "gecmis": [
+            "20.07.2026 - Serra (3 gün)",
+            "20.07.2026 - Serra (3 gün)"
+        ],
+        "baslangic": "20.07.2026",
+        "bitis": "23.07.2026"
+    },
+    {
+        "plaka": "06 XYZ 02",
+        "marka": "Ford Focus",
+        "ucret": 1500,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "35 DEF 03",
+        "marka": "Fiat Egea",
+        "ucret": 1000,
+        "durum": "müsait",
+        "toplam_ucret": 3000,
+        "kiralayan": "",
+        "baslangic": "",
+        "bitis": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "07 KML 04",
+        "marka": "VW Golf",
+        "ucret": 1800,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "34 IST 05",
+        "marka": "Toyota Corolla",
+        "ucret": 1400,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "06 ANK 06",
+        "marka": "Honda Civic",
+        "ucret": 1600,
+        "durum": "kirada",
+        "toplam_ucret": 4800,
+        "kiralayan": "Mehmet Demir",
+        "baslangic": "17.07.2026",
+        "bitis": "20.07.2026",
+        "gecmis": []
+    },
+    {
+        "plaka": "35 IZM 07",
+        "marka": "Hyundai i20",
+        "ucret": 1100,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "16 BRS 08",
+        "marka": "Peugeot 208",
+        "ucret": 1300,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "01 ADA 09",
+        "marka": "Opel Astra",
+        "ucret": 1450,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "61 TRB 10",
+        "marka": "Nissan Qashqai",
+        "ucret": 2000,
+        "durum": "kirada",
+        "toplam_ucret": 10000,
+        "kiralayan": "Ayşe Kaya",
+        "baslangic": "15.07.2026",
+        "bitis": "20.07.2026",
+        "gecmis": []
+    },
+    {
+        "plaka": "55 SMS 11",
+        "marka": "Kia Sportage",
+        "ucret": 2100,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "21 DIY 12",
+        "marka": "Dacia Duster",
+        "ucret": 1250,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "27 GZT 13",
+        "marka": "Skoda Octavia",
+        "ucret": 1700,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "42 KNY 14",
+        "marka": "Seat Leon",
+        "ucret": 1550,
+        "durum": "kirada",
+        "toplam_ucret": 3100,
+        "kiralayan": "Fatma Şahin",
+        "baslangic": "19.07.2026",
+        "bitis": "21.07.2026",
+        "gecmis": []
+    },
+    {
+        "plaka": "38 KYS 15",
+        "marka": "Volvo S60",
+        "ucret": 2500,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "25 ERZ 16",
+        "marka": "BMW 320i",
+        "ucret": 2800,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "44 MLT 17",
+        "marka": "Mercedes C200",
+        "ucret": 3000,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "58 SVS 18",
+        "marka": "Audi A3",
+        "ucret": 2200,
+        "durum": "kirada",
+        "toplam_ucret": 6600,
+        "kiralayan": "Ali Yılmaz",
+        "baslangic": "18.07.2026",
+        "bitis": "21.07.2026",
+        "gecmis": []
+    },
+    {
+        "plaka": "10 BLK 19",
+        "marka": "Renault Megane",
+        "ucret": 1350,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    },
+    {
+        "plaka": "65 VAN 20",
+        "marka": "Ford Puma",
+        "ucret": 1650,
+        "durum": "müsait",
+        "toplam_ucret": 0,
+        "kiralayan": "",
+        "gecmis": []
+    }
+]
